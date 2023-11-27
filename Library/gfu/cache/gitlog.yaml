@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2023-11-27T08:18:29.416+00:00
+  initializedAtString: 2023-11-27T08:18:29.416+00:00
+  log:
+  - commitID: 0505c6c4e6ae4785970e2b98147915daee9e65cc
+    mergeA: 
+    mergeB: 
+    authorName: John O' Sullivan
+    authorEmail: public.sullivan@gmail.com
+    commitEmail: public.sullivan@gmail.com
+    commitName: John O' Sullivan
+    summary: Initial commit
+    description: 
+    timeString: 2023-11-26T23:43:46.000+00:00
+    commitTimeString: 2023-11-26T23:43:46.000+00:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\publi\My project\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\publi\My project\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\publi\My project\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
